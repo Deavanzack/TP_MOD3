@@ -1,0 +1,10 @@
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\bin\Debug\mod 3 tp.exe.config
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\bin\Debug\mod 3 tp.exe
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\bin\Debug\mod 3 tp.pdb
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\obj\Debug\mod 3 tp.csproj.AssemblyReference.cache
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\obj\Debug\mod_3_tp.Form1.resources
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\obj\Debug\mod_3_tp.Properties.Resources.resources
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\obj\Debug\mod 3 tp.csproj.GenerateResource.cache
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\obj\Debug\mod 3 tp.csproj.CoreCompileInputs.cache
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\obj\Debug\mod 3 tp.exe
+C:\Users\fadillah\OneDrive - Telkom University\Dokumen\My File\RPL\SEMESTER 4\Kontruksi Perangkat Lunak\TP mod 3 v2\mod 3 tp\mod 3 tp\obj\Debug\mod 3 tp.pdb
